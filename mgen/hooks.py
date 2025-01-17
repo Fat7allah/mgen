@@ -253,22 +253,11 @@ translations = [
     }
 ]
 
-# Fixtures
 fixtures = [
-    {
-        "doctype": "Region",
-        "filters": [["name", "like", "%"]]
-    },
-    {
-        "doctype": "Province",
-        "filters": [["name", "like", "%"]]
-    },
-    {
-        "doctype": "Profession",
-        "filters": [["name", "like", "%"]]
-    },
-    {
-        "doctype": "Teaching Specialty",
-        "filters": [["name", "like", "%"]]
-    }
+    {"dt": "Region", "filters": [["name", "like", "%"]]},
+    {"dt": "Province", "filters": [["name", "like", "%"]]},
+    {"dt": "Profession", "filters": [["name", "like", "%"]]},
+    {"dt": "Teaching Specialty", "filters": [["name", "like", "%"]]},
+    {"dt": "Member Role", "filters": [["name", "like", "%"]]},
+    {"dt": "Academic Year", "filters": [["name", "like", "%"]]}
 ]

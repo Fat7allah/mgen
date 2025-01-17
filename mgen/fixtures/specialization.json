@@ -1,0 +1,97 @@
+[
+ {
+  "doctype": "Specialization",
+  "name": "عربي",
+  "specialization_name": "عربي"
+ },
+ {
+  "doctype": "Specialization",
+  "name": "فرنسي",
+  "specialization_name": "فرنسي"
+ },
+ {
+  "doctype": "Specialization",
+  "name": "عربية",
+  "specialization_name": "عربية"
+ },
+ {
+  "doctype": "Specialization",
+  "name": "اجتماعيات",
+  "specialization_name": "اجتماعيات"
+ },
+ {
+  "doctype": "Specialization",
+  "name": "فرنسية",
+  "specialization_name": "فرنسية"
+ },
+ {
+  "doctype": "Specialization",
+  "name": "رياضيات",
+  "specialization_name": "رياضيات"
+ },
+ {
+  "doctype": "Specialization",
+  "name": "أنشطة علمية",
+  "specialization_name": "أنشطة علمية"
+ },
+ {
+  "doctype": "Specialization",
+  "name": "التربية الاسلامية",
+  "specialization_name": "التربية الاسلامية"
+ },
+ {
+  "doctype": "Specialization",
+  "name": "التربية الفنية",
+  "specialization_name": "التربية الفنية"
+ },
+ {
+  "doctype": "Specialization",
+  "name": "الرياضيات",
+  "specialization_name": "الرياضيات"
+ },
+ {
+  "doctype": "Specialization",
+  "name": "الفيزياء الكيمياء",
+  "specialization_name": "الفيزياء الكيمياء"
+ },
+ {
+  "doctype": "Specialization",
+  "name": "علوم الارض",
+  "specialization_name": "علوم الارض"
+ },
+ {
+  "doctype": "Specialization",
+  "name": "الاعلاميات",
+  "specialization_name": "الاعلاميات"
+ },
+ {
+  "doctype": "Specialization",
+  "name": "العربية",
+  "specialization_name": "العربية"
+ },
+ {
+  "doctype": "Specialization",
+  "name": "الفرنسية",
+  "specialization_name": "الفرنسية"
+ },
+ {
+  "doctype": "Specialization",
+  "name": "الإنجليزية",
+  "specialization_name": "الإنجليزية"
+ },
+ {
+  "doctype": "Specialization",
+  "name": "الاجتماعيات والجغرافيا",
+  "specialization_name": "الاجتماعيات والجغرافيا"
+ },
+ {
+  "doctype": "Specialization",
+  "name": "الفلسفة",
+  "specialization_name": "الفلسفة"
+ },
+ {
+  "doctype": "Specialization",
+  "name": "الاقتصاد",
+  "specialization_name": "الاقتصاد"
+ }
+]

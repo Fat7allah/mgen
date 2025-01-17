@@ -1,0 +1,74 @@
+[
+ {
+  "doctype": "Province",
+  "name": "طنجة",
+  "province_name": "طنجة",
+  "province_type": "عمالة"
+ },
+ {
+  "doctype": "Province",
+  "name": "تطوان",
+  "province_name": "تطوان",
+  "province_type": "عمالة"
+ },
+ {
+  "doctype": "Province",
+  "name": "الفحص أنجرة",
+  "province_name": "الفحص أنجرة",
+  "province_type": "إقليم"
+ },
+ {
+  "doctype": "Province",
+  "name": "العرائش",
+  "province_name": "العرائش",
+  "province_type": "إقليم"
+ },
+ {
+  "doctype": "Province",
+  "name": "الحسيمة",
+  "province_name": "الحسيمة",
+  "province_type": "إقليم"
+ },
+ {
+  "doctype": "Province",
+  "name": "تازة",
+  "province_name": "تازة",
+  "province_type": "إقليم"
+ },
+ {
+  "doctype": "Province",
+  "name": "شفشاون",
+  "province_name": "شفشاون",
+  "province_type": "إقليم"
+ },
+ {
+  "doctype": "Province",
+  "name": "وجدة أنكاد",
+  "province_name": "وجدة أنكاد",
+  "province_type": "عمالة"
+ },
+ {
+  "doctype": "Province",
+  "name": "الناظور",
+  "province_name": "الناظور",
+  "province_type": "إقليم"
+ },
+ {
+  "doctype": "Province",
+  "name": "تاوريرت",
+  "province_name": "تاوريرت",
+  "province_type": "إقليم"
+ },
+ {
+  "doctype": "Province",
+  "name": "جرسيف",
+  "province_name": "جرسيف",
+  "province_type": "إقليم"
+ },
+ {
+  "doctype": "Province",
+  "name": "بركان",
+  "province_name": "بركان",
+  "province_type": "إقليم"
+ }
+]
