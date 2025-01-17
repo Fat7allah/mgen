@@ -1,0 +1,38 @@
+[
+ {
+  "doctype": "Member Role",
+  "role_name": "الكاتب الوطني",
+  "role_level": "وطني",
+  "role_type": "كاتب"
+ },
+ {
+  "doctype": "Member Role",
+  "role_name": "نائب الكاتب الوطني",
+  "role_level": "وطني",
+  "role_type": "نائب كاتب"
+ },
+ {
+  "doctype": "Member Role",
+  "role_name": "الكاتب العام الوطني",
+  "role_level": "وطني",
+  "role_type": "كاتب عام"
+ },
+ {
+  "doctype": "Member Role",
+  "role_name": "نائب الكاتب العام الوطني",
+  "role_level": "وطني",
+  "role_type": "نائب كاتب عام"
+ },
+ {
+  "doctype": "Member Role",
+  "role_name": "أمين المال الوطني",
+  "role_level": "وطني",
+  "role_type": "أمين مال"
+ },
+ {
+  "doctype": "Member Role",
+  "role_name": "نائب أمين المال الوطني",
+  "role_level": "وطني",
+  "role_type": "نائب أمين مال"
+ }
+]

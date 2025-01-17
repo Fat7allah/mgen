@@ -1,0 +1,40 @@
+[
+ {
+  "doctype": "Profession",
+  "profession_name": "التدريس الابتدائي",
+  "specializations": [
+   {"specialization_name": "عربي"},
+   {"specialization_name": "فرنسي"}
+  ]
+ },
+ {
+  "doctype": "Profession",
+  "profession_name": "التدريس الإعدادي",
+  "specializations": [
+   {"specialization_name": "عربية"},
+   {"specialization_name": "اجتماعيات"},
+   {"specialization_name": "فرنسية"},
+   {"specialization_name": "رياضيات"},
+   {"specialization_name": "أنشطة علمية"},
+   {"specialization_name": "التربية الاسلامية"},
+   {"specialization_name": "التربية الفنية"}
+  ]
+ },
+ {
+  "doctype": "Profession",
+  "profession_name": "التدريس التأهيلي",
+  "specializations": [
+   {"specialization_name": "الرياضيات"},
+   {"specialization_name": "الفيزياء الكيمياء"},
+   {"specialization_name": "علوم الارض"},
+   {"specialization_name": "الاعلاميات"},
+   {"specialization_name": "العربية"},
+   {"specialization_name": "الفرنسية"},
+   {"specialization_name": "الإنجليزية"},
+   {"specialization_name": "الاجتماعيات والجغرافيا"},
+   {"specialization_name": "التربية الاسلامية"},
+   {"specialization_name": "الفلسفة"},
+   {"specialization_name": "الاقتصاد"}
+  ]
+ }
+]

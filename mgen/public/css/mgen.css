@@ -1,0 +1,25 @@
+/* MGEN Main CSS File */
+
+.mgen-container {
+    padding: 15px;
+}
+
+.mgen-card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+    padding: 20px;
+}
+
+.mgen-header {
+    border-bottom: 1px solid #eee;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+}
+
+.mgen-footer {
+    border-top: 1px solid #eee;
+    margin-top: 15px;
+    padding-top: 10px;
+}

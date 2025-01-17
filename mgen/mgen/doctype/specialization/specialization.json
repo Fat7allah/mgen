@@ -1,0 +1,38 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-01-17 18:47:37.000000",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "specialization_name",
+  "parent_specialization"
+ ],
+ "fields": [
+  {
+   "fieldname": "specialization_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "التخصص",
+   "reqd": 1
+  },
+  {
+   "fieldname": "parent_specialization",
+   "fieldtype": "Link",
+   "label": "التخصص الأب",
+   "options": "Specialization"
+  }
+ ],
+ "istable": 1,
+ "links": [],
+ "modified": "2025-01-17 18:47:37.000000",
+ "modified_by": "Administrator",
+ "module": "MGEN",
+ "name": "Specialization",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}
