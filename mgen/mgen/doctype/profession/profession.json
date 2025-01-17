@@ -8,6 +8,7 @@
  "field_order": [
   "profession_name",
   "profession_type",
+  "specializations_section",
   "specializations"
  ],
  "fields": [
@@ -21,15 +22,21 @@
   },
   {
    "fieldname": "profession_type",
-   "fieldtype": "Select",
+   "fieldtype": "Data",
+   "in_list_view": 1,
    "label": "نوع المهنة",
-   "options": "التدريس الابتدائي\nالتدريس الإعدادي\nالتدريس التأهيلي\nإداري\nتقني\nإطار"
+   "reqd": 1
+  },
+  {
+   "fieldname": "specializations_section",
+   "fieldtype": "Section Break",
+   "label": "التخصصات"
   },
   {
    "fieldname": "specializations",
    "fieldtype": "Table",
    "label": "التخصصات",
-   "options": "Specialization"
+   "options": "Profession Specialization"
   }
  ],
  "index_web_pages_for_search": 1,

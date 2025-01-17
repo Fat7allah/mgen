@@ -5,8 +5,14 @@
   "profession_name": "التدريس الابتدائي",
   "profession_type": "التدريس الابتدائي",
   "specializations": [
-   {"specialization_name": "عربي"},
-   {"specialization_name": "فرنسي"}
+   {
+    "doctype": "Profession Specialization",
+    "specialization": "عربي"
+   },
+   {
+    "doctype": "Profession Specialization",
+    "specialization": "فرنسي"
+   }
   ]
  },
  {
@@ -15,13 +21,34 @@
   "profession_name": "التدريس الإعدادي",
   "profession_type": "التدريس الإعدادي",
   "specializations": [
-   {"specialization_name": "عربية"},
-   {"specialization_name": "اجتماعيات"},
-   {"specialization_name": "فرنسية"},
-   {"specialization_name": "رياضيات"},
-   {"specialization_name": "أنشطة علمية"},
-   {"specialization_name": "التربية الاسلامية"},
-   {"specialization_name": "التربية الفنية"}
+   {
+    "doctype": "Profession Specialization",
+    "specialization": "عربية"
+   },
+   {
+    "doctype": "Profession Specialization",
+    "specialization": "اجتماعيات"
+   },
+   {
+    "doctype": "Profession Specialization",
+    "specialization": "فرنسية"
+   },
+   {
+    "doctype": "Profession Specialization",
+    "specialization": "رياضيات"
+   },
+   {
+    "doctype": "Profession Specialization",
+    "specialization": "أنشطة علمية"
+   },
+   {
+    "doctype": "Profession Specialization",
+    "specialization": "التربية الاسلامية"
+   },
+   {
+    "doctype": "Profession Specialization",
+    "specialization": "التربية الفنية"
+   }
   ]
  },
  {
@@ -30,17 +57,50 @@
   "profession_name": "التدريس التأهيلي",
   "profession_type": "التدريس التأهيلي",
   "specializations": [
-   {"specialization_name": "الرياضيات"},
-   {"specialization_name": "الفيزياء الكيمياء"},
-   {"specialization_name": "علوم الارض"},
-   {"specialization_name": "الاعلاميات"},
-   {"specialization_name": "العربية"},
-   {"specialization_name": "الفرنسية"},
-   {"specialization_name": "الإنجليزية"},
-   {"specialization_name": "الاجتماعيات والجغرافيا"},
-   {"specialization_name": "التربية الاسلامية"},
-   {"specialization_name": "الفلسفة"},
-   {"specialization_name": "الاقتصاد"}
+   {
+    "doctype": "Profession Specialization",
+    "specialization": "الرياضيات"
+   },
+   {
+    "doctype": "Profession Specialization",
+    "specialization": "الفيزياء الكيمياء"
+   },
+   {
+    "doctype": "Profession Specialization",
+    "specialization": "علوم الارض"
+   },
+   {
+    "doctype": "Profession Specialization",
+    "specialization": "الاعلاميات"
+   },
+   {
+    "doctype": "Profession Specialization",
+    "specialization": "العربية"
+   },
+   {
+    "doctype": "Profession Specialization",
+    "specialization": "الفرنسية"
+   },
+   {
+    "doctype": "Profession Specialization",
+    "specialization": "الإنجليزية"
+   },
+   {
+    "doctype": "Profession Specialization",
+    "specialization": "الاجتماعيات والجغرافيا"
+   },
+   {
+    "doctype": "Profession Specialization",
+    "specialization": "التربية الاسلامية"
+   },
+   {
+    "doctype": "Profession Specialization",
+    "specialization": "الفلسفة"
+   },
+   {
+    "doctype": "Profession Specialization",
+    "specialization": "الاقتصاد"
+   }
   ]
  }
 ]
