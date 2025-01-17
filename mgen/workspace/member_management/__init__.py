@@ -1,3 +1,0 @@
-"""
-Member Management Workspace Module
-"""
