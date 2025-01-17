@@ -1,6 +1,7 @@
 [
  {
   "doctype": "Profession",
+  "name": "التدريس الابتدائي",
   "profession_name": "التدريس الابتدائي",
   "profession_type": "التدريس الابتدائي",
   "specializations": [
@@ -10,6 +11,7 @@
  },
  {
   "doctype": "Profession",
+  "name": "التدريس الإعدادي",
   "profession_name": "التدريس الإعدادي",
   "profession_type": "التدريس الإعدادي",
   "specializations": [
@@ -24,6 +26,7 @@
  },
  {
   "doctype": "Profession",
+  "name": "التدريس التأهيلي",
   "profession_name": "التدريس التأهيلي",
   "profession_type": "التدريس التأهيلي",
   "specializations": [

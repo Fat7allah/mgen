@@ -1,6 +1,7 @@
 [
  {
   "doctype": "Region",
+  "name": "جهة طنجة تطوان الحسيمة",
   "region_name": "جهة طنجة تطوان الحسيمة",
   "provinces": [
    {"province_name": "طنجة", "province_type": "عمالة"},
@@ -14,6 +15,7 @@
  },
  {
   "doctype": "Region",
+  "name": "جهة الشرق",
   "region_name": "جهة الشرق",
   "provinces": [
    {"province_name": "وجدة أنكاد", "province_type": "عمالة"},
