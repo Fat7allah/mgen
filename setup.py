@@ -1,11 +1,14 @@
 from setuptools import setup, find_packages
 
 with open("requirements.txt") as f:
-    install_requires = f.read().strip().split("\n")
+	install_requires = f.read().strip().split("\n")
+
+# get version from __version__ variable in mgen/__init__.py
+from mgen import __version__ as version
 
 setup(
     name="mgen",
-    version="0.0.1",
+    version=version,
     description="Modern Generic Enterprise Resource Planning System",
     author="Your Company",
     author_email="your.email@example.com",

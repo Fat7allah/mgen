@@ -1,0 +1,288 @@
+{
+ "cards": [
+  {
+   "hidden": 0,
+   "label": "إدارة الأعضاء",
+   "links": [
+    {
+     "dependencies": "",
+     "hidden": 0,
+     "is_query_report": 0,
+     "label": "عضو",
+     "link_to": "Member",
+     "link_type": "DocType",
+     "onboard": 1,
+     "type": "Link"
+    },
+    {
+     "dependencies": "",
+     "hidden": 0,
+     "is_query_report": 0,
+     "label": "بطاقة العضوية",
+     "link_to": "Membership_Card",
+     "link_type": "DocType",
+     "onboard": 1,
+     "type": "Link"
+    },
+    {
+     "dependencies": "",
+     "hidden": 0,
+     "is_query_report": 0,
+     "label": "تسيير بطاقة الإنخراط",
+     "link_to": "Membership_Card_Management",
+     "link_type": "DocType",
+     "onboard": 1,
+     "type": "Link"
+    }
+   ]
+  },
+  {
+   "hidden": 0,
+   "label": "الهيكل التنظيمي",
+   "links": [
+    {
+     "dependencies": "",
+     "hidden": 0,
+     "is_query_report": 0,
+     "label": "هيكل الاتحاد",
+     "link_to": "UNEM_Structure",
+     "link_type": "DocType",
+     "onboard": 0,
+     "type": "Link"
+    },
+    {
+     "dependencies": "",
+     "hidden": 0,
+     "is_query_report": 0,
+     "label": "هيكل التعاضدية",
+     "link_to": "Mutual_Structure",
+     "link_type": "DocType",
+     "onboard": 0,
+     "type": "Link"
+    }
+   ]
+  },
+  {
+   "hidden": 0,
+   "label": "Settings",
+   "links": [
+    {
+     "dependencies": "",
+     "hidden": 0,
+     "is_query_report": 0,
+     "label": "Region",
+     "link_to": "Region",
+     "link_type": "DocType",
+     "onboard": 1,
+     "type": "Link"
+    },
+    {
+     "dependencies": "",
+     "hidden": 0,
+     "is_query_report": 0,
+     "label": "Province",
+     "link_to": "Province",
+     "link_type": "DocType",
+     "onboard": 1,
+     "type": "Link"
+    },
+    {
+     "dependencies": "",
+     "hidden": 0,
+     "is_query_report": 0,
+     "label": "Profession",
+     "link_to": "Profession",
+     "link_type": "DocType",
+     "onboard": 0,
+     "type": "Link"
+    },
+    {
+     "dependencies": "",
+     "hidden": 0,
+     "is_query_report": 0,
+     "label": "Teaching Specialty",
+     "link_to": "Teaching Specialty",
+     "link_type": "DocType",
+     "onboard": 0,
+     "type": "Link"
+    }
+   ]
+  }
+ ],
+ "category": "Modules",
+ "charts": [
+  {
+   "chart_name": "Member Growth",
+   "label": "نمو العضوية"
+  }
+ ],
+ "content": "[{\"id\":\"header_members\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>الأعضاء</b></span>\",\"col\":12}},{\"id\":\"member_shortcuts\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"عضو\",\"col\":3}},{\"id\":\"membership_shortcuts\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"بطاقة العضوية\",\"col\":3}},{\"id\":\"membership_management_shortcuts\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"تسيير بطاقة الإنخراط\",\"col\":3}},{\"id\":\"spacer_1\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"header_org\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>التنظيم</b></span>\",\"col\":12}},{\"id\":\"card_members\",\"type\":\"card\",\"data\":{\"card_name\":\"إدارة الأعضاء\",\"col\":4}},{\"id\":\"card_org\",\"type\":\"card\",\"data\":{\"card_name\":\"الهيكل التنظيمي\",\"col\":4}},{\"id\":\"card_settings\",\"type\":\"card\",\"data\":{\"card_name\":\"Settings\",\"col\":4}}]",
+ "creation": "2025-01-08 22:38:35.000000",
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "extends": "",
+ "extends_another_page": 0,
+ "hide_custom": 0,
+ "icon": "users",
+ "idx": 0,
+ "is_default": 0,
+ "is_hidden": 0,
+ "label": "إدارة الأعضاء",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "إدارة الأعضاء",
+   "link_count": 0,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "عضو",
+   "link_to": "Member",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "بطاقة العضوية",
+   "link_to": "Membership_Card",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "تسيير بطاقة الإنخراط",
+   "link_to": "Membership_Card_Management",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "الهيكل التنظيمي",
+   "link_count": 0,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "هيكل الاتحاد",
+   "link_to": "UNEM_Structure",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "هيكل التعاضدية",
+   "link_to": "Mutual_Structure",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Settings",
+   "link_count": 0,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Region",
+   "link_to": "Region",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Province",
+   "link_to": "Province",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Profession",
+   "link_to": "Profession",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Teaching Specialty",
+   "link_to": "Teaching Specialty",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2025-01-14 11:15:01.000000",
+ "modified_by": "Administrator",
+ "module": "UNEM",
+ "name": "member-management",
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "UNEM Admin"
+  },
+  {
+   "role": "UNEM Member Manager"
+  },
+  {
+   "role": "UNEM Structure Manager"
+  }
+ ],
+ "sequence_id": 1.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "label": "عضو",
+   "link_to": "Member",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "label": "بطاقة العضوية",
+   "link_to": "Membership_Card",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "label": "تسيير بطاقة الإنخراط",
+   "link_to": "Membership_Card_Management",
+   "type": "DocType"
+  }
+ ],
+ "title": "Member Management"
+}
