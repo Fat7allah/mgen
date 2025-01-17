@@ -7,6 +7,7 @@
  "engine": "InnoDB",
  "field_order": [
   "region_name",
+  "provinces_section",
   "provinces"
  ],
  "fields": [
@@ -19,10 +20,15 @@
    "unique": 1
   },
   {
+   "fieldname": "provinces_section",
+   "fieldtype": "Section Break",
+   "label": "الأقاليم"
+  },
+  {
    "fieldname": "provinces",
    "fieldtype": "Table",
    "label": "الأقاليم",
-   "options": "Province"
+   "options": "Region Province"
   }
  ],
  "index_web_pages_for_search": 1,

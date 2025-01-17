@@ -4,13 +4,34 @@
   "name": "جهة طنجة تطوان الحسيمة",
   "region_name": "جهة طنجة تطوان الحسيمة",
   "provinces": [
-   {"province_name": "طنجة", "province_type": "عمالة"},
-   {"province_name": "تطوان", "province_type": "عمالة"},
-   {"province_name": "الفحص أنجرة", "province_type": "إقليم"},
-   {"province_name": "العرائش", "province_type": "إقليم"},
-   {"province_name": "الحسيمة", "province_type": "إقليم"},
-   {"province_name": "تازة", "province_type": "إقليم"},
-   {"province_name": "شفشاون", "province_type": "إقليم"}
+   {
+    "doctype": "Region Province",
+    "province": "طنجة"
+   },
+   {
+    "doctype": "Region Province",
+    "province": "تطوان"
+   },
+   {
+    "doctype": "Region Province",
+    "province": "الفحص أنجرة"
+   },
+   {
+    "doctype": "Region Province",
+    "province": "العرائش"
+   },
+   {
+    "doctype": "Region Province",
+    "province": "الحسيمة"
+   },
+   {
+    "doctype": "Region Province",
+    "province": "تازة"
+   },
+   {
+    "doctype": "Region Province",
+    "province": "شفشاون"
+   }
   ]
  },
  {
@@ -18,11 +39,26 @@
   "name": "جهة الشرق",
   "region_name": "جهة الشرق",
   "provinces": [
-   {"province_name": "وجدة أنكاد", "province_type": "عمالة"},
-   {"province_name": "الناظور", "province_type": "إقليم"},
-   {"province_name": "تاوريرت", "province_type": "إقليم"},
-   {"province_name": "جرسيف", "province_type": "إقليم"},
-   {"province_name": "بركان", "province_type": "إقليم"}
+   {
+    "doctype": "Region Province",
+    "province": "وجدة أنكاد"
+   },
+   {
+    "doctype": "Region Province",
+    "province": "الناظور"
+   },
+   {
+    "doctype": "Region Province",
+    "province": "تاوريرت"
+   },
+   {
+    "doctype": "Region Province",
+    "province": "جرسيف"
+   },
+   {
+    "doctype": "Region Province",
+    "province": "بركان"
+   }
   ]
  }
 ]
