@@ -1,8 +1,8 @@
 {
-    "js/mgen.bundle.js": [
+    "mgen/js/mgen.js": [
         "public/js/mgen.js"
     ],
-    "css/mgen.bundle.css": [
+    "mgen/css/mgen.css": [
         "public/css/mgen.css"
     ]
 }

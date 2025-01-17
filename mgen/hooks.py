@@ -8,8 +8,8 @@ app_email = "your.email@example.com"
 app_license = "MIT"
 
 # Includes in <head>
-app_include_js = ["/assets/mgen/js/mgen.bundle.js"]
-app_include_css = ["/assets/mgen/css/mgen.bundle.css"]
+app_include_js = ["/assets/mgen/js/mgen.js"]
+app_include_css = ["/assets/mgen/css/mgen.css"]
 
 # Fixtures
 fixtures = [

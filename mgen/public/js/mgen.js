@@ -4,6 +4,7 @@ frappe.provide('mgen');
 mgen = {
     init() {
         // Add initialization code here
+        console.log("MGEN initialized");
     }
 };
 
