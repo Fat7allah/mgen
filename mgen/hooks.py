@@ -7,6 +7,10 @@ app_color = "grey"
 app_email = "your.email@example.com"
 app_license = "MIT"
 
+# Includes in <head>
+app_include_css = "/assets/mgen/css/mgen.min.css"
+app_include_js = "/assets/mgen/js/mgen.min.js"
+
 # Fixtures
 fixtures = [
     {
@@ -29,3 +33,8 @@ doc_events = {
         "validate": "mgen.mgen.doctype.academic_year.academic_year.validate_dates"
     }
 }
+
+# Website
+website_route_rules = [
+    {"from_route": "/mgen", "to_route": "MGEN"}
+]

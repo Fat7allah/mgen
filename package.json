@@ -1,0 +1,20 @@
+{
+  "name": "mgen",
+  "version": "0.0.1",
+  "description": "Modern Generic Enterprise Resource Planning System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node esbuild"
+  },
+  "keywords": [
+    "frappe"
+  ],
+  "author": "Your Company",
+  "license": "MIT",
+  "dependencies": {
+    "frappe-charts": "^1.6.1",
+    "frappe-datatable": "^1.15.3",
+    "frappe-gantt": "^0.6.0"
+  }
+}
