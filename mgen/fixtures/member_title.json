@@ -1,0 +1,147 @@
+[
+ {
+  "doctype": "Member Title",
+  "title_name": "عضو فرع",
+  "title_type": "محلي"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "الكاتب الوطني",
+  "title_type": "وطني"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "نائب الكاتب الوطني",
+  "title_type": "وطني"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "الكاتب العام الوطني",
+  "title_type": "وطني"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "نائب الكاتب العام الوطني",
+  "title_type": "وطني"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "أمين المال الوطني",
+  "title_type": "وطني"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "نائب أمين المال الوطني",
+  "title_type": "وطني"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "مستشار وطني مكلف بمهمة",
+  "title_type": "وطني"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "الكاتب الجهوي",
+  "title_type": "جهوي"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "نائب الكاتب الجهوي",
+  "title_type": "جهوي"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "الكاتب العام الجهوي",
+  "title_type": "جهوي"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "نائب الكاتب العام الجهوي",
+  "title_type": "جهوي"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "أمين المال الجهوي",
+  "title_type": "جهوي"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "نائب أمين المال الجهوي",
+  "title_type": "جهوي"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "مستشار جهوي مكلف بمهمة",
+  "title_type": "جهوي"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "الكاتب الإقليمي",
+  "title_type": "إقليمي"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "نواب الكاتب الاقليمي",
+  "title_type": "إقليمي"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "الكاتب العام الاقليمي",
+  "title_type": "إقليمي"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "نائب الكاتب العام الاقليمي",
+  "title_type": "إقليمي"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "أمين المال الاقليمي",
+  "title_type": "إقليمي"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "نائب أمين المال الاقليمي",
+  "title_type": "إقليمي"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "مستشار اقليمي مكلف بمهمة",
+  "title_type": "إقليمي"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "الكاتب المحلي",
+  "title_type": "محلي"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "نائب الكاتب المحلي",
+  "title_type": "محلي"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "الكاتب العام المحلي",
+  "title_type": "محلي"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "نائب الكاتب العام المحلي",
+  "title_type": "محلي"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "أمين المال المحلي",
+  "title_type": "محلي"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "نائب امين المال المحلي",
+  "title_type": "محلي"
+ },
+ {
+  "doctype": "Member Title",
+  "title_name": "مستشار محلي مكلف بمهمة",
+  "title_type": "محلي"
+ }
+]

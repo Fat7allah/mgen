@@ -1,5 +1,5 @@
 import frappe
 from frappe.model.document import Document
 
-class ProfessionSpecialization(Document):
+class MemberTitle(Document):
     pass

@@ -232,6 +232,10 @@ doctype_list_js = {
 #	"unem.auth.validate"
 # ]
 
+fixtures = [
+    {"dt": "Member Title", "filters": [["name", "like", "%"]]}
+]
+
 # Translation
 # ----------------
 translation_fields = ["title", "label", "description", "content"]
@@ -251,13 +255,4 @@ translations = [
         "translated_text": "الإدارة المالية",
         "language_code": "ar"
     }
-]
-
-fixtures = [
-    {"dt": "Region", "filters": [["name", "like", "%"]]},
-    {"dt": "Province", "filters": [["name", "like", "%"]]},
-    {"dt": "Profession", "filters": [["name", "like", "%"]]},
-    {"dt": "Teaching Specialty", "filters": [["name", "like", "%"]]},
-    {"dt": "Member Role", "filters": [["name", "like", "%"]]},
-    {"dt": "Academic Year", "filters": [["name", "like", "%"]]}
 ]
