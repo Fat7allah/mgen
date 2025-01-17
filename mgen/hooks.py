@@ -8,18 +8,10 @@ app_email = "your.email@example.com"
 app_license = "MIT"
 
 # Includes in <head>
-# ------------------
-
-# include js, css files in header of desk.html
-app_include_css = "/assets/mgen/css/mgen.css"
-app_include_js = "/assets/mgen/js/mgen.js"
-
-# include js, css files in header of web template
-# web_include_css = "/assets/mgen/css/mgen_web.css"
-# web_include_js = "/assets/mgen/js/mgen_web.js"
+app_include_js = ["/assets/mgen/js/mgen.bundle.js"]
+app_include_css = ["/assets/mgen/css/mgen.bundle.css"]
 
 # Fixtures
-# --------
 fixtures = [
     {
         "doctype": "Custom Field",
@@ -52,9 +44,13 @@ fixtures = [
 ]
 
 # Document Events
-# --------------
 doc_events = {
     "Academic Year": {
         "validate": "mgen.mgen.doctype.academic_year.academic_year.validate"
     }
 }
+
+# Website
+website_route_rules = [
+    {"from_route": "/mgen", "to_route": "MGEN"}
+]
