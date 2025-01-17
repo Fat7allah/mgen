@@ -1,8 +1,0 @@
-{
-    "js/mgen.min.js": [
-        "public/js/mgen.js"
-    ],
-    "css/mgen.min.css": [
-        "public/css/mgen.css"
-    ]
-}

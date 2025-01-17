@@ -8,6 +8,7 @@
    {"province_name": "الفحص أنجرة", "province_type": "إقليم"},
    {"province_name": "العرائش", "province_type": "إقليم"},
    {"province_name": "الحسيمة", "province_type": "إقليم"},
+   {"province_name": "تازة", "province_type": "إقليم"},
    {"province_name": "شفشاون", "province_type": "إقليم"}
   ]
  },
@@ -20,20 +21,6 @@
    {"province_name": "تاوريرت", "province_type": "إقليم"},
    {"province_name": "جرسيف", "province_type": "إقليم"},
    {"province_name": "بركان", "province_type": "إقليم"}
-  ]
- },
- {
-  "doctype": "Region",
-  "region_name": "جهة فاس مكناس",
-  "provinces": [
-   {"province_name": "فاس", "province_type": "عمالة"},
-   {"province_name": "مكناس", "province_type": "عمالة"},
-   {"province_name": "الحاجب", "province_type": "إقليم"},
-   {"province_name": "إفران", "province_type": "إقليم"},
-   {"province_name": "مولاي يعقوب", "province_type": "إقليم"},
-   {"province_name": "صفرو", "province_type": "إقليم"},
-   {"province_name": "البولمان", "province_type": "إقليم"},
-   {"province_name": "تاونات", "province_type": "إقليم"}
   ]
  }
 ]

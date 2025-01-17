@@ -8,11 +8,31 @@ app_email = "your.email@example.com"
 app_license = "MIT"
 
 # Includes in <head>
-app_include_css = "/assets/mgen/css/mgen.min.css"
-app_include_js = "/assets/mgen/js/mgen.min.js"
+# ------------------
+
+# include js, css files in header of desk.html
+app_include_css = "/assets/mgen/css/mgen.css"
+app_include_js = "/assets/mgen/js/mgen.js"
+
+# include js, css files in header of web template
+# web_include_css = "/assets/mgen/css/mgen_web.css"
+# web_include_js = "/assets/mgen/js/mgen_web.js"
 
 # Fixtures
+# --------
 fixtures = [
+    {
+        "doctype": "Custom Field",
+        "filters": [["module", "=", "MGEN"]]
+    },
+    {
+        "doctype": "Property Setter",
+        "filters": [["module", "=", "MGEN"]]
+    },
+    {
+        "doctype": "Workspace",
+        "filters": [["module", "=", "MGEN"]]
+    },
     {
         "doctype": "Profession",
         "filters": [["name", "like", "%"]]
@@ -24,17 +44,17 @@ fixtures = [
     {
         "doctype": "Member Role",
         "filters": [["name", "like", "%"]]
+    },
+    {
+        "doctype": "Academic Year",
+        "filters": [["name", "like", "%"]]
     }
 ]
 
 # Document Events
+# --------------
 doc_events = {
     "Academic Year": {
-        "validate": "mgen.mgen.doctype.academic_year.academic_year.validate_dates"
+        "validate": "mgen.mgen.doctype.academic_year.academic_year.validate"
     }
 }
-
-# Website
-website_route_rules = [
-    {"from_route": "/mgen", "to_route": "MGEN"}
-]

@@ -1,24 +1,17 @@
+# frappe -- https://github.com/frappe/frappe is installed via 'bench init'
 frappe>=14.0.0
-# Core dependencies
+pymysql
 pypdf
 python-dateutil
 pytz
 six
-werkzeug
-jinja2
-markupsafe
-click
-pillow
-pyyaml
+werkzeug>=0.9.4
+jinja2>=2.7.0
+markupsafe>=0.23
 requests
 redis
 rq
-pymysql
+click
+pillow
+babel
 psutil
-bleach
-watchdog
-# Development dependencies
-coverage
-flake8
-pytest
-pytest-cov
