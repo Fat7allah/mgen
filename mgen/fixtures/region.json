@@ -1,64 +1,50 @@
 [
  {
   "doctype": "Region",
-  "name": "جهة طنجة تطوان الحسيمة",
-  "region_name": "جهة طنجة تطوان الحسيمة",
-  "provinces": [
-   {
-    "doctype": "Region Province",
-    "province": "طنجة"
-   },
-   {
-    "doctype": "Region Province",
-    "province": "تطوان"
-   },
-   {
-    "doctype": "Region Province",
-    "province": "الفحص أنجرة"
-   },
-   {
-    "doctype": "Region Province",
-    "province": "العرائش"
-   },
-   {
-    "doctype": "Region Province",
-    "province": "الحسيمة"
-   },
-   {
-    "doctype": "Region Province",
-    "province": "تازة"
-   },
-   {
-    "doctype": "Region Province",
-    "province": "شفشاون"
-   }
-  ]
+  "region_name": "جهة طنجة تطوان الحسيمة"
  },
  {
   "doctype": "Region",
-  "name": "جهة الشرق",
-  "region_name": "جهة الشرق",
-  "provinces": [
-   {
-    "doctype": "Region Province",
-    "province": "وجدة أنكاد"
-   },
-   {
-    "doctype": "Region Province",
-    "province": "الناظور"
-   },
-   {
-    "doctype": "Region Province",
-    "province": "تاوريرت"
-   },
-   {
-    "doctype": "Region Province",
-    "province": "جرسيف"
-   },
-   {
-    "doctype": "Region Province",
-    "province": "بركان"
-   }
-  ]
+  "region_name": "جهة الشرق"
+ },
+ {
+  "doctype": "Region",
+  "region_name": "جهة فاس مكناس"
+ },
+ {
+  "doctype": "Region",
+  "region_name": "جهة الرباط سلا القنيطرة"
+ },
+ {
+  "doctype": "Region",
+  "region_name": "جهة بني ملال خنيفرة"
+ },
+ {
+  "doctype": "Region",
+  "region_name": "جهة الدار البيضاء سطات"
+ },
+ {
+  "doctype": "Region",
+  "region_name": "جهة مراكش آسفي"
+ },
+ {
+  "doctype": "Region",
+  "region_name": "جهة درعة تافيلالت"
+ },
+ {
+  "doctype": "Region",
+  "region_name": "جهة سوس ماسة"
+ },
+ {
+  "doctype": "Region",
+  "region_name": "جهة كلميم واد نون"
+ },
+ {
+  "doctype": "Region",
+  "region_name": "جهة العيون الساقية الحمراء"
+ },
+ {
+  "doctype": "Region",
+  "region_name": "جهة الداخلة وادي الذهب"
  }
 ]

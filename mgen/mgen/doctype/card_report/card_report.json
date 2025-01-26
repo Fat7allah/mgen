@@ -1,0 +1,114 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:REP-{####}",
+ "creation": "2024-01-26 15:11:32.000000",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "region",
+  "province",
+  "academic_year",
+  "card_count",
+  "total_amount",
+  "payment",
+  "remaining",
+  "office_share",
+  "region_share",
+  "province_share"
+ ],
+ "fields": [
+  {
+   "fieldname": "region",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "الجهة",
+   "options": "Region",
+   "reqd": 1
+  },
+  {
+   "fieldname": "province",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "الإقليم",
+   "options": "Province",
+   "reqd": 1
+  },
+  {
+   "fieldname": "academic_year",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "الموسم الدراسي",
+   "reqd": 1
+  },
+  {
+   "fieldname": "card_count",
+   "fieldtype": "Int",
+   "label": "عدد البطاقات",
+   "reqd": 1
+  },
+  {
+   "fieldname": "total_amount",
+   "fieldtype": "Currency",
+   "label": "المجموع",
+   "read_only": 1
+  },
+  {
+   "fieldname": "payment",
+   "fieldtype": "Currency",
+   "label": "الأداء",
+   "reqd": 1
+  },
+  {
+   "fieldname": "remaining",
+   "fieldtype": "Currency",
+   "label": "الباقي",
+   "read_only": 1
+  },
+  {
+   "fieldname": "office_share",
+   "fieldtype": "Currency",
+   "label": "حصة المكتب (50%)",
+   "read_only": 1
+  },
+  {
+   "fieldname": "region_share",
+   "fieldtype": "Currency",
+   "label": "حصة الجهة (20%)",
+   "read_only": 1
+  },
+  {
+   "fieldname": "province_share",
+   "fieldtype": "Currency",
+   "label": "حصة الإقليم (30%)",
+   "read_only": 1
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-01-26 15:11:32.000000",
+ "modified_by": "Administrator",
+ "module": "Mgen",
+ "name": "Card Report",
+ "name_case": "Title Case",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "translated_doctype": 1
+}
